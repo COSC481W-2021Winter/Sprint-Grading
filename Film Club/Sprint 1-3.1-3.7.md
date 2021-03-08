@@ -1,13 +1,14 @@
 **Alexander Schumacher**
 
 Ability to search users
-- [ ] Add a filter option to the search bar so you choose to search for users instead of movies
-- [ ] Add search functionality by username
+- [x] Add a filter option to the search bar so you choose to search for users instead of movies
+- [x] Add search functionality by username
 
 **Supraja Kalva**
 
 Edit personal information on profile
-- [ ] Users register with all the correct information (First and last name, profile picture, date of birth (optional)
+- [x] Users register with all the correct information (First and last name, profile picture, date of birth (optional)
+(bug: for the first time, profile_pic_form.cleaned_data will give an error.)
 
 **Nick Gilliam**
 
@@ -24,16 +25,16 @@ Reviews show up in home feed
 **Andrew Adamkowski**
 
 Show more information about movie on movie page
-- [ ] Add the extra information to the about movie section
+- [x] Add the extra information to the about movie section
 
 **Nathaniel Fishel**
 
 Show more information about movie on movie page
-- [ ] Review the api to see what relevant information can be added
+- [x] Review the api to see what relevant information can be added
 
 **David Erickson**
 
 Show more information about movie on movie page
-- [ ] Show friends that have watched the same movie
-
+- [x] Show friends that have watched the same movie
+(maintenance: add some friends in the database for testing.)
 
