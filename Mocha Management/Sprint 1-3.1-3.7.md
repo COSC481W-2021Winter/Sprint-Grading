@@ -10,7 +10,7 @@ Inventory database setup
   - [ ] set one of the drop-downs as default
   - [ ] be able to add different types
 
-**Adham O-EMU**
+**Adham Oudeif**
 
 Agree on the other database setups
 - [ ] ER diagram
